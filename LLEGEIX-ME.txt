@@ -1,0 +1,23 @@
+Instruccions:
+1. 	a) git branch branca00
+	b) git checkout branca00
+	c) git status
+
+5.	git log main..branca00
+
+7. 	git checkout branca00
+
+10.	b) git merge branca00
+
+12.	a) git push -u origin main
+
+14. 	a) git push -u origin branca01
+
+Preguntes:
+6.	No, perquè estem en una altra branca on el fitxer no ha estat actualitzat
+
+7.	Ara sí, perquè estem en la branca on s'ha modificat el fitxer
+
+12.	c) Perquè s’han fusionat les dos branques i el push ha estat fet des la branca main
+
+14.	c) A 1 commit de distància
